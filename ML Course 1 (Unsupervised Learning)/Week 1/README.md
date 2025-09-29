@@ -35,6 +35,10 @@ More training opportunities → Better performance
 
 Learning algorithm that maps **inputs (x)** to **outputs (y)**
 
+$$
+input(x)→output(y)
+$$
+
 **Key Characteristic**: Training with labeled examples (correct input-output pairs)
 
 ### Applications
@@ -45,6 +49,15 @@ Learning algorithm that maps **inputs (x)** to **outputs (y)**
 - **Online Advertising**: User/Ad info → Click prediction
 - **Self-Driving Cars**: Image/Sensor data → Position of objects
 - **Manufacturing**: Product image → Defect detection
+
+| Application         | $Input(x)$        |     | $Output(y)$            |
+| ------------------- | ----------------- | --- | ---------------------- |
+| Spam Filtering      | email             | →   | spam? (0/1)            |
+| Speech Recognition  | audio             | →   | text transcripts       |
+| Machine Translation | English           | →   | Spanish                |
+| Online Advertising  | ad, user info     | →   | click? (0/1)           |
+| Self-driving Car    | image, radar info | →   | position of other cars |
+| Visual Inspection   | image of phone    | →   | defect?(0/1)           |
 
 ---
 
