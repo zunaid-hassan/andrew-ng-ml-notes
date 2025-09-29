@@ -2,7 +2,9 @@
   "cssTheme": "Obsidian Nord",
   "textFontFamily": "Cambria,Ubuntu",
   "monospaceFontFamily": "Input",
-  "interfaceFontFamily": "Roboto",
+  "interfaceFontFamily": "Noto Sans,Roboto",
   "showRibbon": false,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "showViewHeader": true,
+  "nativeMenus": false
 }

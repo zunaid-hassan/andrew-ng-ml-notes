@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Course 1 - Supervised Learning/Week 1/README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -171,6 +172,13 @@
   },
   "active": "34fb255e27e294a5",
   "lastOpenFiles": [
+    "Course 1 - Supervised Learning/Week 1/TXT files/test.md",
+    "Course 1 - Supervised Learning/Week 1/TXT files/Module2 Regression Model.txt",
+    "Course 1 - Supervised Learning/Week 1/TXT files/Module2.txt",
+    "Course 1 - Supervised Learning/Week 2",
+    "Course 1 - Supervised Learning/New folder",
+    "Course 1 - Supervised Learning/Week 1/images/clustering1.png",
+    "Course 1 - Supervised Learning/Week 1/images/multiple_input_classification.png",
     "ML Course 1 (Unsupervised Learning)/Week 1/images/breast_cancer_detection2.png",
     "ML Course 1 (Unsupervised Learning)/Week 1/images/breast_cancer_detection1.png",
     "ML Course 1 (Unsupervised Learning)/Week 1/images/regression_housing_price_prediction.png",
