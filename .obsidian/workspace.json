@@ -13,23 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML Course 1 (Unsupervised Learning)/Week 1/README.md",
-                "mode": "preview",
+                "file": "Course 1 - Supervised Learning/Week 1/README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "aacc2c06cc8f018b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ML Course 1 (Unsupervised Learning)/Week 1/README.pdf"
-              },
-              "icon": "lucide-file-text",
               "title": "README"
             }
           }
@@ -82,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML Course 1 (Unsupervised Learning)/Week 1/README.md",
+                "file": "Course 1 - Supervised Learning/Week 1/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -101,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
