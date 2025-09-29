@@ -1,1 +1,8 @@
-{}
+{
+  "cssTheme": "Obsidian Nord",
+  "textFontFamily": "Cambria,Ubuntu",
+  "monospaceFontFamily": "Input",
+  "interfaceFontFamily": "Roboto",
+  "showRibbon": false,
+  "baseFontSizeAction": false
+}

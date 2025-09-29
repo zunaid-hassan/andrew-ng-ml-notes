@@ -77,6 +77,21 @@
             }
           },
           {
+            "id": "d2116cca0a3faa4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ML Course 1 (Unsupervised Learning)/Week 1/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
             "id": "dcd8c796f40522c9",
             "type": "leaf",
             "state": {
@@ -86,7 +101,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -107,7 +123,7 @@
               "type": "backlink",
               "state": {
                 "file": "ML Course 1 (Unsupervised Learning)/Week 1/README.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -147,21 +163,6 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "af1c90f9a47feb72",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "ML Course 1 (Unsupervised Learning)/Week 1/README.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of README"
-            }
           }
         ]
       }
@@ -183,9 +184,16 @@
   },
   "active": "34fb255e27e294a5",
   "lastOpenFiles": [
-    "README.md",
-    "ML Course 1 (Unsupervised Learning)/Week 1/README.md",
+    "ML Course 1 (Unsupervised Learning)/Week 1/images/breast_cancer_detection2.png",
+    "ML Course 1 (Unsupervised Learning)/Week 1/images/breast_cancer_detection1.png",
+    "ML Course 1 (Unsupervised Learning)/Week 1/images/regression_housing_price_prediction.png",
+    "ML Course 1 (Unsupervised Learning)/Week 1/images/regression_housing_price_competition.png",
+    "ML Course 1 (Unsupervised Learning)/Week 1/images",
+    "ML Course 1 (Unsupervised Learning)/Week 1/New folder",
+    "ML Course 1 (Unsupervised Learning)/Week 1/regression_housing_price_competition.png",
     "ML Course 1 (Unsupervised Learning)/Week 1/README.pdf",
+    "ML Course 1 (Unsupervised Learning)/Week 1/README.md",
+    "README.md",
     "ML Course 1 (Unsupervised Learning)/Week 1/ml1.pdf"
   ]
 }

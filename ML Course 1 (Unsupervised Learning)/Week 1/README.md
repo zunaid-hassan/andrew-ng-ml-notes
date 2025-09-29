@@ -33,24 +33,19 @@ More training opportunities → Better performance
 
 ### Definition
 
-Learning algorithm that maps **inputs (x)** to **outputs (y)**
+Learning algorithm that maps **inputs (x)** to **outputs (y)**:
 
 $$
-input(x)→output(y)
+input(x)→f(⋅)→output(y)
 $$
+
+Where $f(⋅)$ is the learning algorithm.
 
 **Key Characteristic**: Training with labeled examples (correct input-output pairs)
 
 ### Applications
 
-- **Email Spam Filtering**: Email → Spam/Not Spam
-- **Speech Recognition**: Audio → Text transcript
-- **Machine Translation**: English → Other languages
-- **Online Advertising**: User/Ad info → Click prediction
-- **Self-Driving Cars**: Image/Sensor data → Position of objects
-- **Manufacturing**: Product image → Defect detection
-
-| Application         | $Input(x)$        |     | $Output(y)$            |
+| Application         | $Input(x)$        | →   | $Output(y)$            |
 | ------------------- | ----------------- | --- | ---------------------- |
 | Spam Filtering      | email             | →   | spam? (0/1)            |
 | Speech Recognition  | audio             | →   | text transcripts       |
@@ -66,6 +61,8 @@ $$
 **Predicts continuous numerical values from infinitely many possibilities**
 
 #### Example: Housing Price Prediction
+
+![Regression: House Prince Prediction](./images/regression_housing_price_prediction.png "Regression: House Price Competition")
 
 - **Input (x)**: House size (sq ft)
 - **Output (y)**: Price ($)
@@ -84,7 +81,20 @@ $$
 
 - **Input (x)**: Tumor size
 - **Output (y)**: Benign (0) or Malignant (1)
-- Can have 2+ categories (e.g., Type 0, Type 1, Type 2 cancer)
+
+| Size | Diagnosis |
+| ---- | --------- |
+| 2    | 0         |
+| 5    | 1         |
+| 1    | 0         |
+| 7    | 1         |
+| ⋮    | ⋮         |
+
+![Regression: Breast Cancer Detection](./images/breast_cancer_detection1.png "Regression: Regression: Breast Cancer Detection")
+
+- Can have >2 categories (e.g., Type 0, Type 1, Type 2 cancer)
+
+![Regression: Breast Cancer Detection](./images/breast_cancer_detection2.png "Regression: Regression: Breast Cancer Detection")
 
 **Key Difference from Regression**:
 

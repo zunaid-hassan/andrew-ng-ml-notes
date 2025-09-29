@@ -1,18 +1,10 @@
-# andrew-ng-ml-notes
+# [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction) - Andrew Ng
 
-Reference notes from Andrew Ng's Coursera course Unsupervised Learning, Recommenders, Reinforcement Learning.
+Reference notes for Andrew Ng's Coursera course Unsupervised Learning, Recommenders, Reinforcement Learning.
 
-## test:
+## Outline
 
-layout: default
-title: Math Test
-
----
-
-Inline math: $y \in \{0, 1\}$
-
-Display math:
-
-$$
-y \in \{0, 1, 2, ..., n\}
-$$
+- Week1
+  - Module 1: Supervised vs. Unsupervised Machine Learning
+  - Module 2: Regression Model
+  - Module 3: Gradient Descent
